@@ -1,2 +1,2 @@
 # sos1920-labs
-esto es repositorio de labs prueba
+esto es repositorio y codigo del laboratorio 4
